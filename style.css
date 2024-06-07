@@ -135,3 +135,27 @@ button {
     text-align: center;
     color: grey;
 }
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    background: #E5E7EB;
+}
+
+.thor-quote {
+    margin: 100px 350px;
+    gap: 0px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 0;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.thor {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: end;
+}
