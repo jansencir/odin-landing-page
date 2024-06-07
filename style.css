@@ -29,7 +29,6 @@ ul {
     list-style-type: none;
     display: flex;
     align-items: center;
-    /* padding-left: 0px; */
     gap: 30px;
 }
 
